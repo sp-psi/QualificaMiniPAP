@@ -1,5 +1,5 @@
 # Web App qualifica-2A
-Projeto (mini-PAP)
+Projeto (mini-PAP) onde os alunos irão implementar um sistema web que permite recolher informações dos participantes da Qualifica.
 - disciplina: PSI
 - módulo: Metodologias de Análise e Desenvolvimento de Sistemas
 
