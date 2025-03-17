@@ -1,0 +1,53 @@
+/* Cor predominante */
+:root {
+    --main-color: #046cac;
+}
+
+body {
+    background: linear-gradient(135deg, #e2f0f7, #ebf0f2);
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    text-align: center;
+}
+
+.card {
+    max-width: 600px;
+    width: 100%;
+    background: #f0f2f3;
+    border-radius: 20px;
+    padding: 30px;
+}
+
+/* Estilização da logo */
+.logo {
+    width: 150px;
+    height: auto;
+    justify-content: center;
+}
+
+.form-control {
+    border: 2px solid #ddd;
+    transition: 0.3s;
+}
+
+.form-control:focus {
+    border-color: var(--main-color);
+    box-shadow: 0 0 10px rgba(4, 108, 172, 0.3);
+}
+
+.btn-primary {
+    background: var(--main-color);
+    border: none;
+    transition: 0.3s;
+}
+
+.btn-primary:hover {
+    background: #035b92;
+    transform: scale(1.05);
+}
+
+.text-primary {
+    color: var(--main-color) !important;
+}
