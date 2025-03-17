@@ -4,12 +4,12 @@ Projeto (mini-PAP)
 - módulo: Metodologias de Análise e Desenvolvimento de Sistemas
 
 ## Tecnologias
-> SGBD: MySQL
-> HTML
-> CSS
-> PHP
-> jQuery
-> Ajax
+- SGBD: MySQL
+- HTML
+- CSS
+- PHP
+- jQuery
+- Ajax
 
 ## Recursos
 - [XAMPP](https://www.apachefriends.org/)
