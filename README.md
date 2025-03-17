@@ -18,6 +18,8 @@ Projeto (mini-PAP)
 - base de dados: [database.sql](/db/qualifica_db.sql) (Concelhos do Porto, Participantes)
 
 (Modelo Relacional BD)![qualifica_Modelo_Relacional](https://github.com/user-attachments/assets/bf3b1f39-0ab2-42b9-882d-7c2285510714)
+![qualifica_Modelo_Relacional](https://github.com/user-attachments/assets/0039f85c-7287-4590-86a1-92f6f77c5c82)
+
 
 ## Instruções 
 0) Descarregue ou clone o projeto.
