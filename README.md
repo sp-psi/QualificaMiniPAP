@@ -1,7 +1,7 @@
 # Web App qualifica-2A
 Projeto (mini-PAP)
- disciplina: PSI
- módulo: Metodologias de Análise e Desenvolvimento de Sistemas
+- disciplina: PSI
+- módulo: Metodologias de Análise e Desenvolvimento de Sistemas
 
 ## Tecnologias
  > SGBD: MySQL
